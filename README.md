@@ -1,2 +1,2 @@
 # short-notes
-https://github.com/anand8725kumar/short-notes/settings
+file:///C:/Users/Anand%20kumar/OneDrive/Desktop/project1/index.html
